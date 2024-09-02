@@ -1,0 +1,14 @@
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\bin\Debug\net6.0\EchoSpooferV2.exe
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\bin\Debug\net6.0\EchoSpooferV2.deps.json
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\bin\Debug\net6.0\EchoSpooferV2.runtimeconfig.json
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\bin\Debug\net6.0\EchoSpooferV2.dll
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\bin\Debug\net6.0\EchoSpooferV2.pdb
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\obj\Debug\net6.0\EchoSpooferV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\obj\Debug\net6.0\EchoSpooferV2.AssemblyInfoInputs.cache
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\obj\Debug\net6.0\EchoSpooferV2.AssemblyInfo.cs
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\obj\Debug\net6.0\EchoSpooferV2.csproj.CoreCompileInputs.cache
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\obj\Debug\net6.0\EchoSpooferV2.dll
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\obj\Debug\net6.0\refint\EchoSpooferV2.dll
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\obj\Debug\net6.0\EchoSpooferV2.pdb
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\obj\Debug\net6.0\EchoSpooferV2.genruntimeconfig.cache
+C:\Users\Blitzedzzmain\source\repos\EchoSpooferV2\EchoSpooferV2\obj\Debug\net6.0\ref\EchoSpooferV2.dll
